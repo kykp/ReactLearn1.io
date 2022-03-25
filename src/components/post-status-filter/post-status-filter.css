@@ -1,0 +1,12 @@
+.button {
+   border: 1px solid black;
+}
+
+.button:first-child {
+    margin-right: 2px;
+}
+
+.button:hover{
+   
+    cursor: pointer;
+}
